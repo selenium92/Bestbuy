@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 84.491 s <<< FAILURE! - in TestSuite
+com.project.TC_003.startProcess  Time elapsed: 68.719 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: 
+connection refused
+Build info: version: '3.141.0', revision: '2ecb7d9a', time: '2018-10-31T20:09:30'
+System info: host: 'DESKTOP-JIF9KL8', ip: '192.168.43.197', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
+Driver info: driver.version: FirefoxDriver
+remote stacktrace: 
+	at com.project.TC_003.startProcess(TC_003.java:27)
+

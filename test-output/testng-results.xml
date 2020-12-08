@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="77261" started-at="2020-11-15T11:58:49 IST" finished-at="2020-11-15T12:00:07 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="77261" started-at="2020-11-15T11:58:49 IST" finished-at="2020-11-15T12:00:07 IST">
+      <class name="com.project.TC_003">
+        <test-method status="PASS" signature="startProcess()[pri:0, instance:com.project.TC_003@396f6598]" name="startProcess" is-config="true" duration-ms="71185" started-at="2020-11-15T11:58:49 IST" finished-at="2020-11-15T12:00:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startProcess -->
+        <test-method status="PASS" signature="amazon()[pri:0, instance:com.project.TC_003@396f6598]" name="amazon" duration-ms="3924" started-at="2020-11-15T12:00:01 IST" finished-at="2020-11-15T12:00:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazon -->
+        <test-method status="PASS" signature="endProcess()[pri:0, instance:com.project.TC_003@396f6598]" name="endProcess" is-config="true" duration-ms="1413" started-at="2020-11-15T12:00:05 IST" finished-at="2020-11-15T12:00:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endProcess -->
+      </class> <!-- com.project.TC_003 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
